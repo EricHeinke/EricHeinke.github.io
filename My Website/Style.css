@@ -1,0 +1,35 @@
+body {
+	background-color: LightBlue;
+}
+.headder {
+	font-size: 30px;
+}
+.inviz {
+	font-size: 20px;
+	color: LightBlue;
+}
+.center {
+	text-align: center;
+}
+.title{
+	font-size: 50px;
+	text-align: center;
+}
+.nText{
+	font-size: 30px;
+}
+.table{
+	font-size: 25px;
+}
+.link{
+	color: DarkBlue;
+	text-decoration: none;
+}
+.embedPage{
+	width: 1000px;
+	height:700px;
+}
+.terminal{
+	width: 1800px;
+	height: 800px;
+}
