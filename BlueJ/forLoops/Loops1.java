@@ -1,0 +1,10 @@
+
+public class Loops1
+{
+    public static void main(){
+        //for loop 0-9
+        for(int i=0; i<10; i++){
+            System.out.println("The counter is: " + i);
+        }
+    }
+}
