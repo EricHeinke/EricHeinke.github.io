@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Binary_Search
+comment1.params=
+comment1.target=void\ main1()
+comment2.params=list
+comment2.target=int[]\ remove_list_start(int[])
+comment3.params=list
+comment3.target=int[]\ remove_list_end(int[])
+comment4.params=
+comment4.target=void\ main2()
+numComments=5

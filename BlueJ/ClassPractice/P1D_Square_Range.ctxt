@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=P1D_Square_Range
+comment1.params=
+comment1.target=void\ main()
+comment2.params=low\ high
+comment2.target=int\ random(int,\ int)
+numComments=3
