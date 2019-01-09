@@ -55,7 +55,7 @@ public class Binary_Search
     }
     
     
-    //try 2
+    //try 2 Work in progress
     public static void main2(){
         //creates list of numbers
         int[] list = {1,4,7,9,10,27,30};

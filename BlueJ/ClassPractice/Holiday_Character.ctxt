@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Holiday_Character
+comment1.params=
+comment1.target=Holiday_Character()
+comment2.params=name\ hasCheer\ internetSpeed
+comment2.target=Holiday_Character(java.lang.String,\ boolean,\ long)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Hamburger
+comment1.params=
+comment1.target=Hamburger()
+comment2.params=hasLettuce\ numPatties\ cheeseType
+comment2.target=Hamburger(boolean,\ int,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4
